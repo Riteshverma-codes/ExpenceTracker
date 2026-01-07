@@ -12,7 +12,7 @@ Check it out here: https://expensetask.netlify.app/
 
 ## 📁 Repository
 
-[https://github.com/Manishkumar010/EXPENSETRACKER-APP](https://github.com/Manishkumar010/EXPENSETRACKER-APP)
+https://github.com/Riteshverma-codes/ExpenceTracker
 
 ---
 
@@ -63,7 +63,7 @@ Check it out here: https://expensetask.netlify.app/
 3. **Local Setup & Run**  
    ```bash
    # Clone the repo
-   git clone https://github.com/Manishkumar010/EXPENSETRACKER-APP.git
+   git clone https://github.com/Riteshverma-codes/ExpenceTracker.git
    cd EXPENSETRACKER-APP
    
    # Frontend
